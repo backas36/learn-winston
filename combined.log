@@ -1,0 +1,111 @@
+{"level":"info","message":"info infomation"}
+{"level":"warn","message":"warn information"}
+{"level":"error","message":"error information"}
+{"level":"info","message":"info infomation"}
+{"level":"warn","message":"warn information"}
+{"level":"debug","message":"debug information"}
+{"level":"error","message":"error information"}
+{"level":"info","message":"==================== start running log ===================="}
+{"level":"info","message":"info infomation"}
+{"level":"warn","message":"warn information"}
+{"level":"debug","message":"debug information"}
+{"level":"error","message":"error information"}
+{"level":"info","message":"==================== start running log ===================="}
+{"level":"info","message":"info infomation"}
+{"level":"warn","message":"warn information"}
+{"level":"debug","message":"debug information"}
+{"level":"error","message":"error information"}
+2022-02-12T06:37:04.078Z  info: ==================== start running log ====================
+2022-02-12T06:37:04.080Z  info: info infomation
+2022-02-12T06:37:04.080Z  warn: warn information
+2022-02-12T06:37:04.080Z  debug: debug information
+2022-02-12T06:37:04.080Z  error: error information
+14:38:37  info: ==================== start running log ====================
+14:38:37  info: info infomation
+14:38:37  warn: warn information
+14:38:37  debug: debug information
+14:38:37  error: error information
+02-12 14:38:53  info: ==================== start running log ====================
+02-12 14:38:53  info: info infomation
+02-12 14:38:53  warn: warn information
+02-12 14:38:53  debug: debug information
+02-12 14:38:53  error: error information
+02-12 14:39:25 [info]: ==================== start running log ====================
+02-12 14:39:25 [info]: info infomation
+02-12 14:39:25 [warn]: warn information
+02-12 14:39:25 [debug]: debug information
+02-12 14:39:25 [error]: error information
+02-12 14:40:38 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:40:38 [[32minfo[39m]: info infomation
+02-12 14:40:38 [[33mwarn[39m]: warn information
+02-12 14:40:38 [[34mdebug[39m]: debug information
+02-12 14:40:38 [[31merror[39m]: error information
+02-12 14:43:04 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:43:04 [[32minfo[39m]: info infomation
+02-12 14:43:04 [[33mwarn[39m]: warn information
+02-12 14:43:04 [[34mdebug[39m]: debug information
+02-12 14:43:04 [[31merror[39m]: error information
+02-12 14:43:35 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:43:35 [[32minfo[39m]: info infomation
+02-12 14:43:35 [[33mwarn[39m]: warn information
+02-12 14:43:35 [[34mdebug[39m]: debug information
+02-12 14:43:35 [[31merror[39m]: error information
+02-12 14:43:48 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:43:48 [[32minfo[39m]: info infomation
+02-12 14:43:48 [[33mwarn[39m]: warn information
+02-12 14:43:48 [[34mdebug[39m]: debug information
+02-12 14:43:48 [[31merror[39m]: error information
+02-12 14:44:05 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:44:05 [[32minfo[39m]: info infomation
+02-12 14:44:05 [[33mwarn[39m]: warn information
+02-12 14:44:05 [[34mdebug[39m]: debug information
+02-12 14:44:05 [[31merror[39m]: error information
+02-12 14:44:16 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:44:16 [[32minfo[39m]: info infomation
+02-12 14:44:16 [[33mwarn[39m]: warn information
+02-12 14:44:16 [[34mdebug[39m]: debug information
+02-12 14:44:16 [[31merror[39m]: error information
+02-12 14:45:02 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:02 [[32minfo[39m]: info infomation
+02-12 14:45:02 [[33mwarn[39m]: warn information
+02-12 14:45:02 [[34mdebug[39m]: debug information
+02-12 14:45:02 [[31merror[39m]: error information
+02-12 14:45:04 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:04 [[32minfo[39m]: info infomation
+02-12 14:45:04 [[33mwarn[39m]: warn information
+02-12 14:45:04 [[34mdebug[39m]: debug information
+02-12 14:45:04 [[31merror[39m]: error information
+02-12 14:45:28 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:28 [[32minfo[39m]: info infomation
+02-12 14:45:28 [[33mwarn[39m]: warn information
+02-12 14:45:28 [[34mdebug[39m]: debug information
+02-12 14:45:28 [[31merror[39m]: error information
+02-12 14:45:31 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:31 [[32minfo[39m]: info infomation
+02-12 14:45:31 [[33mwarn[39m]: warn information
+02-12 14:45:31 [[34mdebug[39m]: debug information
+02-12 14:45:31 [[31merror[39m]: error information
+02-12 14:45:53 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:53 [[32minfo[39m]: info infomation
+02-12 14:45:53 [[33mwarn[39m]: warn information
+02-12 14:45:53 [[34mdebug[39m]: debug information
+02-12 14:45:53 [[31merror[39m]: error information
+02-12 14:45:55 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:45:55 [[32minfo[39m]: info infomation
+02-12 14:45:55 [[33mwarn[39m]: warn information
+02-12 14:45:55 [[34mdebug[39m]: debug information
+02-12 14:45:55 [[31merror[39m]: error information
+02-12 14:47:42 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:47:42 [[32minfo[39m]: info infomation
+02-12 14:47:42 [[33mwarn[39m]: warn information
+02-12 14:47:42 [[34mdebug[39m]: debug information
+02-12 14:47:42 [[31merror[39m]: error information
+02-12 14:48:03 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:48:03 [[32minfo[39m]: info infomation
+02-12 14:48:03 [[33mwarn[39m]: warn information
+02-12 14:48:03 [[31merror[39m]: error information
+02-12 14:48:07 [[32minfo[39m]: ==================== start running log ====================
+02-12 14:48:07 [[32minfo[39m]: info infomation
+02-12 14:48:07 [[33mwarn[39m]: warn information
+02-12 14:48:07 [[34mdebug[39m]: debug information
+02-12 14:48:07 [[31merror[39m]: error information
