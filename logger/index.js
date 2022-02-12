@@ -1,12 +1,13 @@
 const appLogger = require("./appLogger");
+const prodLogger = require("./prodLogger");
 let logger = null;
 
 if (process.env.NODE_ENV === "dev") {
-  logger = appLogger("debug");
+  logger = appLogger();
 }
 
 if (process.env.NODE_ENV === "prod") {
-  logger = appLogger("info");
+  logger = prodLogger();
 }
 
 module.exports = logger;

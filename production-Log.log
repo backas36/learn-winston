@@ -1,0 +1,4 @@
+ [info] 2022-02-12T06:58:06.123Z: ==================== start running log ====================
+ [info] 2022-02-12T06:58:06.126Z: info infomation
+ [warn] 2022-02-12T06:58:06.127Z: warn information
+ [error] 2022-02-12T06:58:06.127Z: error information

@@ -2,17 +2,13 @@ const { createLogger, format, transports } = require("winston");
 const { combine, timestamp, label, printf } = format;
 
 const myFormat = printf(({ level, message, timestamp }) => {
-  return `${timestamp} [${level}]: ${message}`;
+  return ` [${level}] ${timestamp}: ${message}`;
 });
 
-const appLogger = () => {
+const prodLogger = () => {
   return createLogger({
-    level: "debug",
-    format: combine(
-      format.colorize(),
-      timestamp({ format: "MM-DD HH:mm:ss" }),
-      myFormat
-    ),
+    level: "info",
+    format: combine(timestamp(), myFormat),
     //defaultMeta: { service: "user-service" },
     transports: [
       //
@@ -20,8 +16,9 @@ const appLogger = () => {
       // - Write all logs with importance level of `info` or less to `combined.log`
       //
       new transports.Console(),
+      new transports.File({ filename: "production-Log.log" }),
     ],
   });
 };
 
-module.exports = appLogger;
+module.exports = prodLogger;
