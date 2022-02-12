@@ -12,3 +12,5 @@ logger.error("error information");
 
 2.当你在package.json的script字段中定义的是除了1中的4个命令外的命令的时候，你就不能省略“run”了"
 */
+
+// learn from https://www.youtube.com/watch?v=m2q1Cevl_qw&ab_channel=HiteshChoudhary
